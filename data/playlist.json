@@ -3,14 +3,14 @@
     "id": 1,
     "title": "Voyage Spatial",
     "artist": "EA Compositions",
-    "url": "media/music/musique1.wav",
+    "url": "media/music/musique1.mp3",
     "cover": ""
   },
   {
     "id": 2,
     "title": "Ambiance Cyberpunk",
     "artist": "EA Créations",
-    "url": "media/music/musique1.wav",
+    "url": "media/music/musique1.mp3",
     "cover": ""
   }
 ]
