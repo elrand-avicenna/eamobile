@@ -51,7 +51,8 @@ h1, h2, h3, h4, h5, h6, p, span, a, button, div, label {
 .smartphone-frame {
     width: 100%;
     max-width: 420px;
-    min-height: 100dvh;
+    height: 100dvh;
+    max-height: 900px;
     background: linear-gradient(145deg, #1a1a1a, #0a0a0a);
     border-radius: 50px;
     position: relative;
