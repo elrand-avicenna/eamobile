@@ -19,5 +19,12 @@
     "title": "Cyber Haqueuse",
     "url": "media/videos/cyber.mp4",
     "poster": ""
+  },
+  {
+    "id": 4,
+    "type": "video",
+    "title": "Myth Yelain",
+    "url": "media/videos/myth.mp4",
+    "poster": ""
   }
 ]
